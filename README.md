@@ -50,18 +50,3 @@ $ npm install
 $ npm start
 ```
 
-## Contributors
-
-- <a href="https://github.com/RajatSablok">Rajat Sablok</a>
-- <a href="https://github.com/TheG0dfath3r">Kunal Singh</a>
-- <a href="https://github.com/anmolpant">Anmol Pant</a>
-- <a href="https://github.com/PriyankVIT">Priyank Kaushik</a>
-- <a href="https://github.com/syedayazsa">Syed Ayaz</a>
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-<p align="center">
-	With :heart: by LCF 2.0
-</p>
